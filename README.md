@@ -15,7 +15,7 @@
 ---
 
 ## 🛠 Tech Stack  
-**Frontend:** HTML • CSS  • Javascipt • React
+**Frontend:** HTML • CSS  • Javascipt • React • Vue.js
 
 ---
 
