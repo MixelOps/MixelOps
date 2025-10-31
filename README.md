@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm MixelOps 
 
-<!--
-**MixelOps/MixelOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Web Developer** (since 2023)  
+💡 Passionate about building modern, scalable, and user-friendly web applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 About Me  
+- 🔭 Currently working on: **A Ticket Management App**  
+- 🌱 Learning: **Advanced Django + Angular + WebSockets**  
+- 💞️ Open to: **collaborating on open-source projects**  
+- 📫 Reach me: **[WhatsApp](https://wa.me/2347080201078)**  
+- 😄 Pronouns: **He/Him**  
+
+---
+
+## 🛠 Tech Stack  
+**Frontend:** HTML • CSS  • Javascipt • React
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MixelOps&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MixelOps&layout=compact&theme=radical)
