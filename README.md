@@ -13,8 +13,7 @@
 - 😄 Pronouns: **He/Him**  
 
 ---
-
-## 🛠 Tech Stack  
+ 
 ### 🛠️ Tech Stack
 
 <p align="left">
