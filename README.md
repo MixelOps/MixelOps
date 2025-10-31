@@ -9,7 +9,7 @@
 - 🔭 Currently working on: **A Ticket Management App**  
 - 🌱 Learning: **Advanced Django + Angular + WebSockets**  
 - 💞️ Open to: **collaborating on open-source projects**  
-- 📫 Reach me: **[WhatsApp](https://wa.me/2347080201078)
+  
 
 ---
  
